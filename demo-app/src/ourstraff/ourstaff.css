@@ -1,0 +1,23 @@
+a{
+    text-decoration: none;
+}
+#banner{
+    background-image: url('./images/banner.jpg');
+}
+
+#row4-background{
+    background-image: url('./images/team4.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #ffffff;
+}
+.row4-help-button{
+    color:#ffffff;
+    padding: 20px 30px;
+    background-color: green;
+}
+.row4-help-button:hover{
+    color:#ffffff;
+    opacity: .9;
+}
